@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { Text, View, StyleSheet, TouchableOpacity } from 'react-native';
-import db from '../config.js';
+import db from 'config.js';
 
 export default class HomeScreen extends React.Component {
   constructor() {

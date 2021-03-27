@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { Text, View, StyleSheet} from 'react-native';
-import db from '../config';
+import db from 'config';
 
 class SummaryScreen extends React.Component {
   constructor() {
